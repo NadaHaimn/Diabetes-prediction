@@ -1,4 +1,4 @@
-# Diabetes-prediction-logistic-reg
+# Diabetes-prediction
 
 Diabetes Prediction using Logistic Regression
 
